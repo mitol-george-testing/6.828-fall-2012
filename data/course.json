@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Operating Systems"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ede88ef7-000d-170f-f2a3-05fc915d4eef"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Operating System Engineering",
+  "course_description": "This course studies fundamental design and implementation ideas in the engineering of operating systems. Lectures are based on a study of UNIX and research papers. Topics include virtual memory, threads, context switches, kernels, interrupts, system calls, interprocess communication, coordination, and the interaction between software and hardware. Individual laboratory assignments involve implementation of a small operating system in C, with some x86 assembly.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.828",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Projects with Examples",
+    "Programming Assignments"
+  ],
+  "title": "Course Metadata"
+}
